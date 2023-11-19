@@ -1,0 +1,1 @@
+api = "get your api here https://developers.generativeai.google/products/palm"
