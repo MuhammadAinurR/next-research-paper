@@ -1,4 +1,5 @@
 # Next Research Direction - GitHub README.md
+<br> demo : https://next-research-direction.streamlit.app/
 ## Introduction
 "Next Research Direction" is an innovative Streamlit application that leverages Google's Generative AI to assist researchers in identifying future research directions based on their abstracts. This tool is designed to analyze scientific abstracts and provide insightful suggestions on potential research paths, along with relevant paper links for further exploration.
 
